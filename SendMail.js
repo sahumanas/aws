@@ -18,7 +18,7 @@ exports.handler = function(event, context,callback) {
        //Data: JSON.stringify(event, null, 3)
     var eParams = {
         Destination: {
-            ToAddresses: ["thebhuk@gmail.com","contact@thebhuk.in"]
+            ToAddresses: ["m.ranjan24@gmail.com"]
         },
         Message: {
             Body: {
